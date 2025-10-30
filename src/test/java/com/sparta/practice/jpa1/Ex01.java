@@ -26,7 +26,7 @@ public class Ex01 {
 
         // 비영속 - 변화감지 X
         Users user = new Users();
-        user.setId(1L);
+        //user.setId(1L);
         user.setName("사용자1");
         user.setEmail("user01@test.org");
 
